@@ -1,4 +1,3 @@
-# AccesoBDR_AlejandroMoles
 Programa realizado por Alejandro Moles Hurtado:
 
 El programa que he realizado funciona de la siguiente manera:
@@ -45,5 +44,3 @@ El programa que he realizado funciona de la siguiente manera:
 
 		     El codigo del trigger que se lanza esta en un archivo con extension .sql
 
-
- 
